@@ -112,7 +112,7 @@ Want to create your own Commit-o-Matic? Here’s how:
 
 3. **Set Up Authentication:**
 
-   - Follow the instructions in the [Set Up Git Authentication](#set-up-git-authentication) section.
+   - Follow the above instructions to Set Up Git Authentication.
 
 4. **Customize Your Repository:**
 
